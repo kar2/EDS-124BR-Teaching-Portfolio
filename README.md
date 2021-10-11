@@ -2,3 +2,4 @@
 Teaching portfolio for EDS 124BR.
 
 1. Show What You Know: Explain Your Program - https://youtu.be/XJoogZtNfjc
+2. Show What You Know: Repeats (Chapter 2) - https://youtu.be/QYfSP1AuojA
