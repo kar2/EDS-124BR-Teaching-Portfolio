@@ -6,3 +6,4 @@ Teaching portfolio for EDS 124BR.
 3. Loops: Animal Parade - https://youtu.be/3ASpFE9q31c
 4. Nested Loops: Spider Octagon - https://youtu.be/vyuocflh2_I
 5. Events: Monkey and Banana - https://youtu.be/j-4oplYc0jU
+6. Variables: Drawing Shapes - https://youtu.be/mQJ8LtuFXek
