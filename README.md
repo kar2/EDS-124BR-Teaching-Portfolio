@@ -7,3 +7,4 @@ Teaching portfolio for EDS 124BR.
 4. Nested Loops: Spider Octagon - https://youtu.be/vyuocflh2_I
 5. Events: Monkey and Banana - https://youtu.be/j-4oplYc0jU
 6. Variables: Drawing Shapes - https://youtu.be/mQJ8LtuFXek
+7. Conditional Loops: https://youtu.be/YnFs7plQG4k
