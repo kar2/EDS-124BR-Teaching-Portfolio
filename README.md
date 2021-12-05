@@ -10,3 +10,4 @@ Teaching portfolio for EDS 124BR.
 7. Conditional Loops: https://youtu.be/YnFs7plQG4k
 8. If-Else: https://youtu.be/9t9jZ0pgfbU
 9. Abstraction (Week 9) - https://youtu.be/wceJnBm7bvQ
+10. Lists (Week 10) - https://youtu.be/ZkwttaxdOqI
