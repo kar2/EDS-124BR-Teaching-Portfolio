@@ -9,5 +9,6 @@ Teaching portfolio for EDS 124BR.
 6. Variables: Drawing Shapes - https://youtu.be/mQJ8LtuFXek
 7. Conditional Loops: https://youtu.be/YnFs7plQG4k
 8. If-Else: https://youtu.be/9t9jZ0pgfbU
-9. Abstraction (Week 9) - https://youtu.be/wceJnBm7bvQ
-10. Lists (Week 10) - https://youtu.be/ZkwttaxdOqI
+9. Nested If Else: https://youtu.be/fIB36cwV5FA
+10. Abstraction (Week 9) - https://youtu.be/wceJnBm7bvQ
+11. Lists (Week 10) - https://youtu.be/ZkwttaxdOqI
